@@ -1,0 +1,1 @@
+# domitory-walking-map
